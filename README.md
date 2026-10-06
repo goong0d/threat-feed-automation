@@ -47,3 +47,5 @@ Raw Threat Intelligence
           +----> MySQL
           |
           +----> Mock Firewall
+```
+᯽ THANK YOU ᯽
